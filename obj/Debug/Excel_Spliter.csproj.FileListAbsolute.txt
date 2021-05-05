@@ -1,0 +1,11 @@
+C:\Users\Tyler\source\repos\Excel_Spliter\bin\Debug\Excel_Spliter.exe.config
+C:\Users\Tyler\source\repos\Excel_Spliter\bin\Debug\Excel_Spliter.exe
+C:\Users\Tyler\source\repos\Excel_Spliter\bin\Debug\Excel_Spliter.pdb
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.Form1.resources
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.Properties.Resources.resources
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.exe
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.pdb
+C:\Users\Tyler\source\repos\Excel_Spliter\obj\Debug\Excel_Spliter.csproj.ResolveComReference.cache
